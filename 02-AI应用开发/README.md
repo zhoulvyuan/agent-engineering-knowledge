@@ -16,9 +16,9 @@
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
 | [Prompt Engineering](01-Prompt-Engineering.md) | 🟢 | A | 用自然语言控制模型行为的基础手段 |
-| [Structured Output / 结构化输出](02-Structured-Output.md) | 🟡 | A | 让模型输出能被程序稳定消费 |
-| [Tool Calling / 工具调用](03-Tool-Calling.md) | 🟡 | A | 模型从「说」到「做」的第一步 |
-| [Context Engineering / 上下文工程](04-Context-Engineering.md) | 🟡 | A | 把上下文当作可设计的工程对象 |
+| [Structured Output / 结构化输出](02-Structured-Output.md) | 🟢 | A | 让模型输出能被程序稳定消费 |
+| [Tool Calling / 工具调用](03-Tool-Calling.md) | 🟢 | A | 模型从「说」到「做」的第一步 |
+| [Context Engineering / 上下文工程](04-Context-Engineering.md) | 🟢 | A | 把上下文当作可设计的工程对象 |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -54,3 +54,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成 Prompt / Structured Output / Tool Calling / Context Engineering 四篇笔记，状态全部转为 🟢 |
