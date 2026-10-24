@@ -23,11 +23,11 @@
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [Tool / 工具](01-Tool.md) | 🟡 | A | Agent 行动能力的来源 |
-| [MCP / Model Context Protocol](02-MCP.md) | 🟡 | A | 工具接入的标准化协议 |
-| [Skill / 技能](03-Skill.md) | 🟡 | A | 可复用的能力封装与按需加载 |
-| [Plugin / 插件](04-Plugin.md) | 🟡 | B | 平台侧的扩展机制 |
-| [External Systems / 外部系统集成](05-外部系统集成.md) | ⚪ | B | Agent 与真实世界系统的连接 |
+| [Tool / 工具](01-Tool.md) | 🟢 | A | Agent 行动能力的来源 |
+| [MCP / Model Context Protocol](02-MCP.md) | 🟢 | A | 工具接入的标准化协议 |
+| [Skill / 技能](03-Skill.md) | 🟢 | A | 可复用的能力封装与按需加载 |
+| [Plugin / 插件](04-Plugin.md) | 🟢 | B | 平台侧的扩展机制 |
+| [External Systems / 外部系统集成](05-外部系统集成.md) | 🟢 | B | Agent 与真实世界系统的连接 |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -58,3 +58,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |

@@ -18,13 +18,13 @@ Orchestrator-Worker 等）。这一层已独立为 [04-Agent设计模式](../04-
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [Agent 是什么](01-Agent是什么.md) | 🟡 | A | 理解 Agent 的本质与边界 |
+| [Agent 是什么](01-Agent是什么.md) | 🟢 | A | 理解 Agent 的本质与边界 |
 | [Agent Loop](02-Agent-Loop.md) | 🔴 | A | Agent 的心脏，当前最关键的红色缺口 |
-| [Planning / 规划](03-Planning.md) | ⚪ | A | 把大目标拆成可执行步骤 |
-| [Reasoning / Decision](04-Reasoning与Decision.md) | 🟡 | A | Agent 的决策从何而来 |
-| [Memory / 记忆](05-Memory.md) | 🟡 | A | 跨会话保持信息的能力 |
-| [Reflection / 反思](06-Reflection.md) | ⚪ | B | 让 Agent 检查并修正自己的输出 |
-| [Multi-Agent / 多智能体](07-Multi-Agent.md) | ⚪ | B | 多个 Agent 协作的收益与代价 |
+| [Planning / 规划](03-Planning.md) | 🟢 | A | 把大目标拆成可执行步骤 |
+| [Reasoning / Decision](04-Reasoning与Decision.md) | 🟢 | A | Agent 的决策从何而来 |
+| [Memory / 记忆](05-Memory.md) | 🟢 | A | 跨会话保持信息的能力 |
+| [Reflection / 反思](06-Reflection.md) | 🟢 | B | 让 Agent 检查并修正自己的输出 |
+| [Multi-Agent / 多智能体](07-Multi-Agent.md) | 🟢 | B | 多个 Agent 协作的收益与代价 |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -60,3 +60,4 @@ Orchestrator-Worker 等）。这一层已独立为 [04-Agent设计模式](../04-
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |

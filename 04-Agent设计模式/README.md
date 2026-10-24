@@ -1,6 +1,6 @@
 # 04 Agent 设计模式
 
-> 主线域 ｜ **本域为已识别的关键缺口，暂未建独立文件。**
+> 主线域 ｜ 目标：掌握业界沉淀的、可直接套用的 Agent 组织模式，作为从「理解」到「设计」的桥梁。
 
 ## 为什么需要这个域
 
@@ -14,17 +14,17 @@
 - 它是从**理解**到**设计**的唯一桥梁。没有它，Agent 设计会退化成"凭感觉拼装"。
 - 它是 [08-Agent工程化](../08-Agent工程化/README.md) 和 [11-架构设计](../11-架构设计/README.md) 的**共同前置**。
 
-## 知识点清单（待建文件）
+## 知识点清单
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| ReAct | ⚪ | A | 推理与行动交替：Reason → Act → Observe |
-| Plan-and-Execute | ⚪ | A | 先出完整计划，再逐步执行 |
-| Reflexion | ⚪ | B | 失败后自我反思并重试 |
-| Router / 分发 | ⚪ | A | 先分类，再交给最合适的处理者 |
-| Orchestrator-Worker | ⚪ | A | 一个调度者拆解并分发给多个执行者 |
-| Evaluator-Optimizer | ⚪ | A | 生成者与评估者对抗迭代 |
-| Handoff / Sub-agent | ⚪ | A | 任务与上下文在 Agent 间转移 |
+| [ReAct](01-ReAct.md) | 🟢 | A | 推理与行动交替：Reason → Act → Observe |
+| [Plan-and-Execute](02-Plan-and-Execute.md) | 🟢 | A | 先出完整计划，再逐步执行 |
+| [Reflexion](03-Reflexion.md) | 🟢 | B | 失败后自我反思并重试 |
+| [Router / 分发](04-Router.md) | 🟢 | A | 先分类，再交给最合适的处理者 |
+| [Orchestrator-Worker](05-Orchestrator-Worker.md) | 🟢 | A | 一个调度者拆解并分发给多个执行者 |
+| [Evaluator-Optimizer](06-Evaluator-Optimizer.md) | 🟢 | A | 生成者与评估者对抗迭代 |
+| [Handoff / Sub-agent](07-Handoff-Sub-agent.md) | 🟢 | A | 任务与上下文在 Agent 间转移 |
 
 ## 与其他域的关系
 
@@ -47,3 +47,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 识别本域为关键缺口，建立占位 |
+| 2026-09-15 | 新建并完成 7 个设计模式笔记，状态转为 🟢 |

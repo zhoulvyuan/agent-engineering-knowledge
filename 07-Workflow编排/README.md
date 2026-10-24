@@ -28,11 +28,11 @@
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [Workflow / 工作流](01-Workflow.md) | 🟡 | A | 确定性流程的编排 |
-| [Agent Workflow](02-Agent-Workflow.md) | ⚪ | A | 确定性与自主性的混合编排 |
+| [Workflow / 工作流](01-Workflow.md) | 🟢 | A | 确定性流程的编排 |
+| [Agent Workflow](02-Agent-Workflow.md) | 🟢 | A | 确定性与自主性的混合编排 |
 | [Workflow vs Agent](03-Workflow-vs-Agent.md) | 🔴 | A | 核心判断：什么该固定，什么该自主 |
-| [Human-in-the-loop / 人在回路](04-Human-in-the-loop.md) | ⚪ | A | 在关键节点保留人的判断 |
-| [Event-driven Agent / 事件驱动](05-Event-driven-Agent.md) | ⚪ | B | 由事件而非请求触发的 Agent |
+| [Human-in-the-loop / 人在回路](04-Human-in-the-loop.md) | 🟢 | A | 在关键节点保留人的判断 |
+| [Event-driven Agent / 事件驱动](05-Event-driven-Agent.md) | 🟢 | B | 由事件而非请求触发的 Agent |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -63,3 +63,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |

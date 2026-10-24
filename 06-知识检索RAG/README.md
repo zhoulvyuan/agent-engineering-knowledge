@@ -21,11 +21,11 @@
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [RAG / 检索增强生成](01-RAG.md) | 🟡 | A | 用外部知识补足模型参数 |
-| [Retrieval / 检索](02-Retrieval.md) | ⚪ | A | 如何把相关的知识找出来 |
-| [Vector Database / 向量数据库](03-Vector-Database.md) | ⚪ | B | 向量检索的存储与索引层 |
-| [Reranking / 重排](04-Reranking.md) | ⚪ | B | 对初筛结果做精细化排序 |
-| [Knowledge Base / 知识库](05-Knowledge-Base.md) | ⚪ | B | RAG 之上的知识管理体系 |
+| [RAG / 检索增强生成](01-RAG.md) | 🟢 | A | 用外部知识补足模型参数 |
+| [Retrieval / 检索](02-Retrieval.md) | 🟢 | A | 如何把相关的知识找出来 |
+| [Vector Database / 向量数据库](03-Vector-Database.md) | 🟢 | B | 向量检索的存储与索引层 |
+| [Reranking / 重排](04-Reranking.md) | 🟢 | B | 对初筛结果做精细化排序 |
+| [Knowledge Base / 知识库](05-Knowledge-Base.md) | 🟢 | B | RAG 之上的知识管理体系 |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -57,3 +57,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |

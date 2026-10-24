@@ -19,7 +19,12 @@
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [技术选型方法论](01-选型方法论.md) | 🟡 | B | 面对任何新技术的判断框架 |
+| [技术选型方法论](01-选型方法论.md) | 🟢 | B | 面对任何新技术的判断框架 |
+| [Java 生态：Spring AI 与 LangChain4j](02-Java生态-SpringAI与LangChain4j.md) | 🟢 | B | 用 Java 构建 AI 应用的主流路径 |
+| [Agent 框架选型](03-Agent框架选型.md) | 🟢 | B | LangGraph / OpenAI Agents SDK / Claude Agent SDK / AutoGen 的取舍 |
+| [模型选型与路由](04-模型选型与路由.md) | 🟢 | B | 能力 / 成本 / 延迟三角的权衡 |
+| [向量库选型](05-向量库选型.md) | 🟢 | B | pgvector / Milvus / Qdrant / Chroma 的取舍 |
+| [低代码平台选型](06-低代码平台选型.md) | 🟢 | C | Dify / Coze / n8n 的适用边界 |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -27,11 +32,7 @@
 
 | 知识点 | 优先级 | 为什么需要 |
 | --- | --- | --- |
-| Java 生态：Spring AI 与 LangChain4j | **高（结合你的背景）** | 用 Java 构建 AI 应用的主流路径，可直接复用你的软件工程能力 |
-| Agent 框架选型 | **高** | LangGraph / OpenAI Agents SDK / Claude Agent SDK / AutoGen 等的定位差异与取舍 |
-| 模型选型与路由 | **高** | 能力 / 成本 / 延迟三角，何时用小模型、何时该微调而非改 Prompt |
-| 向量库选型 | 中 | pgvector / Milvus / Qdrant / Chroma 的取舍 |
-| 低代码平台选型 | 低 | Dify / Coze / n8n 的适用边界 |
+| （暂无） | — | 原登记的选型对象已全部建档 |
 
 ## 与其他域的关系
 
@@ -53,3 +54,5 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |
+| 2026-09-15 | 新建 Java 生态 / Agent 框架 / 模型 / 向量库 / 低代码 5 个选型对象笔记 |

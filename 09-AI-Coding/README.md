@@ -25,12 +25,12 @@
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [AI Coding 基本模式](01-AI-Coding基本模式.md) | 🟡 | B | AI 进入研发过程的三种形态 |
-| [Claude Code](02-Claude-Code.md) | 🟡 | B | 生产级 Coding Agent 的参考实现 |
-| [OpenCode](03-OpenCode.md) | 🟡 | B | 开源 Coding Agent 架构参考 |
-| [DeepSeek Harness](04-DeepSeek-Harness.md) | 🟡 | B | DSH 的架构与扩展机制 |
-| [AI Coding Workflow](05-AI-Coding-Workflow.md) | 🟡 | B | 把 AI 嵌入完整研发流程 |
-| [Agentic Software Engineering](06-Agentic-Software-Engineering.md) | ⚪ | B | 研发流程的长期演进方向 |
+| [AI Coding 基本模式](01-AI-Coding基本模式.md) | 🟢 | B | AI 进入研发过程的三种形态 |
+| [Claude Code](02-Claude-Code.md) | 🟢 | B | 生产级 Coding Agent 的参考实现 |
+| [OpenCode](03-OpenCode.md) | 🟢 | B | 开源 Coding Agent 架构参考 |
+| [DeepSeek Harness](04-DeepSeek-Harness.md) | 🟢 | B | DSH 的架构与扩展机制 |
+| [AI Coding Workflow](05-AI-Coding-Workflow.md) | 🟢 | B | 把 AI 嵌入完整研发流程 |
+| [Agentic Software Engineering](06-Agentic-Software-Engineering.md) | 🟢 | B | 研发流程的长期演进方向 |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -63,3 +63,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |

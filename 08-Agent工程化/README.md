@@ -24,14 +24,14 @@
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [State Management / 状态管理](01-State-Management.md) | ⚪ | A | Agent 运行状态的保存与恢复 |
-| [Context Management / 上下文管理](02-Context-Management.md) | 🟡 | A | 运行时的上下文预算与裁剪 |
-| [Agent Evaluation / 评估](03-Evaluation.md) | ⚪ | A | 判断 Agent 好坏的度量体系 |
-| [Observability / 可观测性](04-Observability.md) | ⚪ | A | 让 Agent 的运行过程可见 |
-| [Reliability / 可靠性](05-Reliability.md) | ⚪ | A | 让 Agent 在异常下仍可预期 |
-| [Security / 安全](06-Security.md) | ⚪ | A | Agent 拥有行动能力后的风险控制 |
-| [Cost & Performance / 成本与性能](07-Cost与Performance.md) | ⚪ | B | 让 Agent 在经济上可持续 |
-| [Production Architecture / 生产架构](08-Production-Architecture.md) | ⚪ | A | 把 Agent 变成可运维的系统 |
+| [State Management / 状态管理](01-State-Management.md) | 🟢 | A | Agent 运行状态的保存与恢复 |
+| [Context Management / 上下文管理](02-Context-Management.md) | 🟢 | A | 运行时的上下文预算与裁剪 |
+| [Agent Evaluation / 评估](03-Evaluation.md) | 🟢 | A | 判断 Agent 好坏的度量体系 |
+| [Observability / 可观测性](04-Observability.md) | 🟢 | A | 让 Agent 的运行过程可见 |
+| [Reliability / 可靠性](05-Reliability.md) | 🟢 | A | 让 Agent 在异常下仍可预期 |
+| [Security / 安全](06-Security.md) | 🟢 | A | Agent 拥有行动能力后的风险控制 |
+| [Cost & Performance / 成本与性能](07-Cost与Performance.md) | 🟢 | B | 让 Agent 在经济上可持续 |
+| [Production Architecture / 生产架构](08-Production-Architecture.md) | 🟢 | A | 把 Agent 变成可运维的系统 |
 
 ## 待建文件（已识别的知识缺口）
 
@@ -70,3 +70,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |

@@ -32,14 +32,14 @@
 
 | 知识点 | 状态 | 深度 | 一句话 |
 | --- | --- | --- | --- |
-| [Transformer](01-Transformer.md) | ⚪ | C | 现代大模型的骨架 |
-| [Attention / 注意力机制](02-Attention.md) | ⚪ | C | 上下文如何被模型使用 |
-| [Pre-training / 预训练](03-Pre-training.md) | ⚪ | C | 模型能力的来源 |
-| [Fine-tuning / 微调](04-Fine-tuning.md) | ⚪ | C | 用数据改造模型行为 |
-| [RLHF / 偏好优化](05-RLHF与偏好优化.md) | ⚪ | C | 让模型输出符合人类偏好 |
-| [Inference / 推理](06-Inference.md) | ⚪ | C | 模型如何生成回答 |
-| [Quantization / 量化](07-Quantization.md) | ⚪ | D | 用精度换成本的部署手段 |
-| [Model Serving / 模型服务](08-Model-Serving.md) | ⚪ | D | 模型的生产部署 |
+| [Transformer](01-Transformer.md) | 🟢 | C | 现代大模型的骨架 |
+| [Attention / 注意力机制](02-Attention.md) | 🟢 | C | 上下文如何被模型使用 |
+| [Pre-training / 预训练](03-Pre-training.md) | 🟢 | C | 模型能力的来源 |
+| [Fine-tuning / 微调](04-Fine-tuning.md) | 🟢 | C | 用数据改造模型行为 |
+| [RLHF / 偏好优化](05-RLHF与偏好优化.md) | 🟢 | C | 让模型输出符合人类偏好 |
+| [Inference / 推理](06-Inference.md) | 🟢 | C | 模型如何生成回答 |
+| [Quantization / 量化](07-Quantization.md) | 🟢 | D | 用精度换成本的部署手段 |
+| [Model Serving / 模型服务](08-Model-Serving.md) | 🟢 | D | 模型的生产部署 |
 
 ## 与其他域的关系
 
@@ -64,3 +64,4 @@
 | 日期 | 变更 |
 | --- | --- |
 | 2026-09-15 | 建立本域骨架 |
+| 2026-09-15 | 完成本域知识点笔记，状态转为 🟢 |
